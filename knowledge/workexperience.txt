@@ -1,0 +1,10 @@
+Role: Associate Engineer – System Administrator
+Company: Unisys
+Location: Bengaluru, Karnataka, India
+Duration: March 2024 – Present
+Responsibilities:
+- Provide MCP (Master Control Program) support for multiple enterprise projects ensuring high system availability.
+- Handle critical production incidents and reduce average resolution time.
+- Manage system configurations, deployments, and monitoring.
+- Collaborate with cross-functional teams to resolve complex technical issues.
+- Develop automation scripts and tools using Java.

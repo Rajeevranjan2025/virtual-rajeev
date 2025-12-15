@@ -1,0 +1,13 @@
+Technical Skills:
+
+Programming Languages:
+Java, SQL, JavaScript, HTML, CSS
+
+Frameworks and Libraries:
+Spring Boot, Hibernate, Servlet, JSP, ReactJS
+
+Databases:
+MySQL, Oracle, PostgreSQL
+
+Tools and Technologies:
+Git, Maven, JDBC, REST APIs, MCP, System Administration

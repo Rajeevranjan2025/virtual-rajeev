@@ -1,0 +1,96 @@
+Name: Rajeev Ranjan
+Location: Bengaluru, Karnataka, India
+Email: rajeevranjanr225@gmail.com
+Phone: +91-9529794614
+LinkedIn: Available
+
+Professional Summary:
+I am a Software Engineer with more than 2 years of experience in full-stack development and system administration.
+I am proficient in Java, Spring Boot, Hibernate, SQL, and modern web technologies.
+I have solved more than 400 data structures and algorithms problems.
+I have experience in MCP support, incident management, and handling multiple enterprise projects.
+I am seeking challenging opportunities to build scalable and reliable software solutions.
+
+Work Experience:
+
+Role: Associate Engineer – System Administrator
+Company: Unisys
+Location: Bengaluru, Karnataka, India
+Duration: March 2024 – Present
+Responsibilities:
+- Provide MCP (Master Control Program) support for multiple enterprise projects ensuring high system availability.
+- Handle critical production incidents and reduce average resolution time.
+- Manage system configurations, deployments, and monitoring.
+- Collaborate with cross-functional teams to resolve complex technical issues.
+- Develop automation scripts and tools using Java.
+
+Role: Java Full Stack Developer (Training)
+Company: JSpiders – Training & Development Center
+Location: Bengaluru, Karnataka, India
+Duration: September 2023 – March 2024
+Responsibilities:
+- Completed intensive training in Java Full Stack Development including J2SE, J2EE, Spring Boot, Hibernate, and React.
+- Built end-to-end applications such as Banking System, Hotel Booking System, and Employee Management System.
+- Implemented RESTful APIs using Spring Boot.
+- Integrated MySQL databases using JDBC and Hibernate ORM.
+- Developed responsive front-end interfaces using HTML, CSS, JavaScript, and ReactJS.
+
+Role: Computer Science Expert (Part-time)
+Company: Chegg India
+Location: Remote
+Duration: February 2021 – January 2024
+Responsibilities:
+- Solved more than 500 computer science problems related to data structures, algorithms, databases, and programming.
+- Provided high-quality explanations with a quality rating above 95 percent.
+
+Education:
+Degree: Bachelor of Technology in Computer Science Engineering
+College: Bhagalpur College of Engineering
+Duration: September 2019 – September 2023
+CGPA: 7.77 out of 10
+
+Technical Skills:
+Programming Languages:
+- Java
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+Frameworks and Libraries:
+- Spring Boot
+- Hibernate
+- Servlet
+- JSP
+- ReactJS
+
+Databases:
+- MySQL
+- Oracle
+- PostgreSQL
+
+Tools and Technologies:
+- Git
+- Maven
+- JDBC
+- REST APIs
+- MCP
+- System Administration
+
+Core Competencies:
+- Object Oriented Programming
+- Data Structures and Algorithms (400+ problems solved)
+- Exception Handling
+- Collections Framework
+- Full Stack Development
+- Incident Management
+
+Key Projects:
+- Banking System: Developed a banking application with account management, transaction processing, and balance tracking.
+- Hotel Booking System: Built a hotel reservation platform with booking management and availability checking.
+- Employee and Student Record Management System: Created enterprise systems with CRUD operations and reporting.
+
+Achievements:
+- Startup idea selected by Bihar Startup for seed funding of Rs. 10 Lakhs.
+- Solved more than 400 DSA problems on GeeksforGeeks and LeetCode.
+- Selected as Internshala Student Partner (ISP 24) and organized campus initiatives.

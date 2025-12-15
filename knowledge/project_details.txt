@@ -1,0 +1,17 @@
+Project Name: Virtual Rajeev
+
+Description:
+Virtual Rajeev is a local AI assistant built using Python, Ollama, and a Large Language Model.
+
+Key Features:
+- Runs completely offline
+- Uses Retrieval Augmented Generation (RAG)
+- Stores personal knowledge in external files
+- Uses FAISS for semantic search
+- Ensures privacy and zero API cost
+
+Future Scope:
+- Telegram integration
+- Task reminders
+- Voice interface
+- Automation

@@ -1,0 +1,17 @@
+Work Experience:
+
+Associate Engineer – System Administrator
+Company: Unisys
+Duration: March 2024 – Present
+Responsibilities:
+- MCP support and incident management
+- System monitoring and automation
+- Java-based tooling
+
+Java Full Stack Developer (Training)
+Company: JSpiders
+Duration: September 2023 – March 2024
+Responsibilities:
+- Java, Spring Boot, Hibernate
+- REST API development
+- Frontend using ReactJS

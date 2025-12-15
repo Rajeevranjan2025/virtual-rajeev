@@ -1,0 +1,13 @@
+My name is Rajeev.
+
+I am building an AI project called Virtual Rajeev.
+
+Virtual Rajeev is a personal AI assistant that runs locally using Ollama and a Large Language Model.
+
+The goal of this project is to create a virtual version of myself that can communicate on my behalf using my personal data and knowledge when I am not available.
+
+This assistant is designed to understand my background, interests, and project details so it can answer questions, provide information, and assist others in a way that reflects my own knowledge and preferences.
+
+The purpose of this project is to learn core AI concepts such as Large Language Models, Retrieval Augmented Generation (RAG), embeddings, and system architecture, while also building an interview-ready real-world AI system.
+
+I am interested in artificial intelligence, software development, and automation.

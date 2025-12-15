@@ -1,0 +1,4 @@
+Projects:
+- Banking System: Developed a banking application with account management, transaction processing, and balance tracking.
+- Hotel Booking System: Built a hotel reservation platform with booking management and availability checking.
+- Employee and Student Record Management System: Created enterprise systems with CRUD operations and reporting.

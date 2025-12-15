@@ -1,0 +1,8 @@
+Q: What problem does Virtual Rajeev solve?
+A: It allows a virtual assistant to answer questions using Rajeev's personal data when he is not available.
+
+Q: Does this AI replace a human?
+A: No. It assists by providing information based on existing knowledge.
+
+Q: Is the system private?
+A: Yes. It runs locally and does not send data to the cloud.
