@@ -19,3 +19,8 @@ focusing on system design, retrieval, and behavior rather than model training.
 - FAISS
 - Sentence Transformers
 - Telegram Bot API
+
+
+
+----------------------------------------------------
+This project documents both implementation and learning journey.
