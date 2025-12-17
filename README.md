@@ -25,3 +25,11 @@ focusing on system design, retrieval, and behavior rather than model training.
 ----------------------------------------------------
 This project documents both implementation and learning journey.
 
+<<<<<<< HEAD
+=======
+I am checking.............
+
+
+Just checked with new branch test
+
+>>>>>>> bac2216a7e06d44e5034aca06e24a3d8391727b6
