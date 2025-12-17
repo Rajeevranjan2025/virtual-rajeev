@@ -1,0 +1,42 @@
+PROJECT_NAME: Banking System
+
+CATEGORY: Java Console Application
+
+DESCRIPTION:
+The Banking System is a Java-based console application designed to simulate basic banking operations.
+It allows users to manage bank accounts, perform transactions, and track account balances efficiently.
+The project focuses on applying core Java concepts and object-oriented programming principles.
+
+FEATURES:
+- Create new bank accounts
+- Deposit money into accounts
+- Withdraw money with balance validation
+- Check account balance
+- Display account details
+- Handle invalid inputs and insufficient balance cases
+
+TECHNOLOGIES_USED:
+- Java
+- Object-Oriented Programming (OOP)
+- Collections (if applicable)
+- Exception Handling
+- Console-based input/output
+
+LEARNING_OUTCOMES:
+- Strong understanding of OOP concepts (classes, objects, encapsulation)
+- Improved logical thinking and problem-solving skills
+- Hands-on experience with real-world application flow
+- Better understanding of data validation and error handling
+- Experience structuring a complete Java project
+
+PROJECT_TYPE:
+Personal / Learning Project
+
+
+INTERVIEW_EXPLANATION:
+This project demonstrates my ability to design a real-world application using Java.
+I implemented account management and transaction logic using clean and modular code.
+The project helped me understand how banking workflows work at a basic level.
+
+KEYWORDS:
+banking system, java project, account management, transactions, balance tracking
